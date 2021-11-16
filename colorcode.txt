@@ -1,0 +1,9 @@
+##Website original color
+primary: #09b567
+icon_color: #0ab568
+navbar-default: #1891EC
+
+
+#website convert color
+primary: #7e1399, #7e09af, #7d098b, #7c0b91, #8e24aa
+icon_color: #7e1399, #7e09af, #7d098b, #7c0b91, #8e24aa
